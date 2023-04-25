@@ -1,1 +1,1 @@
-# Git-hw1(Task_python)
+# teamlead - Юрлов Алексей
