@@ -1,5 +1,5 @@
-﻿int size = 1000;
-int n = 3;
+﻿int size = 10;
+int n = 8;
 string [] arrayOne = new string[size];
 
 Console.WriteLine("Введите символы через Enter, которые будут являтся строковыми элементами массива");
